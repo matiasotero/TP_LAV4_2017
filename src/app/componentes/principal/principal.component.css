@@ -11,3 +11,14 @@ height: 70px;
     transform: translate(-50%, -50%);
     color: #100000;
     }
+
+
+body,h1 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+
+.bgimg {
+    background-image: url('../../../assets/imagenes/gaming.jpg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}

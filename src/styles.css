@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+body,h1 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+
+.bgimg {
+    background-image: url('assets/imagenes/gaming.jpg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
